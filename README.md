@@ -1,4 +1,4 @@
-# WebGL 2.0 Masterclass
+# WebGL 2.0 Masterclass ([permalink](https://spaxe.github.io/webgl2-masterclass/))
 Web3D 2017 - http://web3d2017.org/
 
 **Date & Time:** 09:15 - 10:45, 6 June, 2017<br>
@@ -11,9 +11,9 @@ WebGL 2.0 has landed, and the future of graphics on the web is here. In this wor
 <table>
   <tbody>
     <tr>
-      <td><img src="images/xavier.png" alt="Xavier" width="200"></td>
-      <td><img src="images/juan.png" alt="Xavier" width="200"></td>
-      <td><img src="images/tomasz.png" alt="Xavier" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/xavier.png" alt="Xavier" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/juan.png" alt="Juan" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/tomasz.png" alt="Tomasz" width="200"></td>
     </tr>
     <tr>
       <td><strong>Xavier Ho</strong></td>
