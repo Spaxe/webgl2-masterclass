@@ -6,20 +6,17 @@ Web3D 2017 - http://web3d2017.org/
 <table>
   <tbody>
     <tr>
-      <td>Test</td>
-      <td>Test 2</td>
+      <td>![Xavier](images/xavier.png)</td>
+      <td>**Xavier Ho**</td>
+      <td>The University of Sydney<br>CSIRO</td>
+    </tr>
+    <tr>
+      <td>**Juan Miguel de Joya**</td>
+      <td>DigitalFish<br>Google Spotlight Stories</td>
+    </tr>
+    <tr>
+      <td>**Tomasz Bednarz**</td>
+      <td>UNSW University<br>CSIRO</td>
     </tr>
   </tbody>
 </table>
-
-**Xavier Ho**<br>
-The University of Sydney<br>
-CSIRO
-
-**Juan Miguel de Joya**<br>
-DigitalFish<br>
-Google Spotlight Stories
-
-**Tomasz Bednarz**<br>
-UNSW University<br>
-CSIRO
