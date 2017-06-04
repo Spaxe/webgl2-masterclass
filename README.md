@@ -19,7 +19,7 @@ The slides are accessible in [Google Slides](https://docs.google.com/presentatio
     <tr>
       <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/xavier.png" alt="Xavier" width="200"></td>
       <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/juan.png" alt="Juan" width="200"></td>
-      <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/neil.png" alt="Tomasz" width="200"></td>
+      <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/neil.jpg" alt="Tomasz" width="200"></td>
     </tr>
     <tr>
       <td><strong>Xavier Ho</strong></td>
