@@ -6,6 +6,10 @@ Web3D 2017 - http://web3d2017.org/
 
 WebGL 2.0 has landed, and the future of graphics on the web is here. In this workshop, we will introduce the rendering specification for browsers. New features in WebGL 2.0 include geometry instancing, transform feedback, and 3D textures will be covered in depth. Topics will be drawn from arts, science, data visualisation, as well as WebVR/WebAR.
 
+## Recording
+
+[![Link to Youtube Video](https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/thumbnail.jpg)](https://www.youtube.com/watch?v=A4IIouI5H2o&feature=youtu.be)
+
 ## Link to slides
 The slides are accessible in [Google Slides](https://docs.google.com/presentation/d/15_yBo_U4n_J54Q-PnpYYejnwk5xDak_Bbd-BMjo7UFU/edit#slide=id.g209618ea61_0_6).
 
