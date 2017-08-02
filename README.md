@@ -15,6 +15,7 @@ The slides are accessible in [Google Slides](https://docs.google.com/presentatio
 
 ## Resources
  * [WebGL 2.0 Specification](https://www.khronos.org/registry/webgl/specs/latest/2.0/)
+ * [Leveraging Mobile and Web Technologies for Empathic Computing](https://docs.google.com/presentation/d/1MYEOnMPVxNgjVpveXxYRZpWzd8_T4JBA7ebHP6iZmNc/edit#slide=id.p)
 
 ## Course Presenters
 
