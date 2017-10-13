@@ -1,16 +1,40 @@
-# WebGL 2.0 Masterclass ([permalink](https://spaxe.github.io/webgl2-masterclass/))
-Web3D 2017 - http://web3d2017.org/
+# Application Development With WebGL & State-of-the-art with WebGL 2.0 ([permalink](https://spaxe.github.io/webgl2-masterclass/))
+[SIGGRAPH Asia 2017](https://sa2017.siggraph.org/) - [Course Page](https://sa2017.siggraph.org/attendees/courses?view=session&sid=15)
 
-**Date & Time:** 09:00 - 10:30, 6 June, 2017<br>
-**Location:** Classroom G-P504
+**Date & Time:** 14:15 – 18:00, 30 November, 2017<br>
+**Room:** Nile 3 (Courses)
 
-WebGL 2.0 has landed, and the future of graphics on the web is here. In this workshop, we will introduce the rendering specification for browsers. New features in WebGL 2.0 include geometry instancing, transform feedback, and 3D textures will be covered in depth. Topics will be drawn from arts, science, data visualisation, as well as WebVR/WebAR.
+## Application Development With WebGL
+**Author(s)/Speaker(s):**<br>
+Edward Angel, University of New Mexico<br>
+Dave Shreiner, Unity Technologies
 
-## Recording
+This course provides an introduction to application programming with WebGL. We introduce both the API and its integration within the HTML5 framework. Our focus will include basic applications of WebGL and converting from desktop OpenGL to WebGL.
 
+## State-of-the-art with WebGL 2.0
+**Author(s)/Speaker(s):**<br>
+Xavier Ho, CSIRO, University of Sydney<br>
+Juan de Joya, Google Spotlight Stories
+
+WebGL 2.0 has landed, and future of web graphics is here. What are the current state-of-the-art web graphics rendering techniques? We will cover many new features, including geometry instancing, transform feedback, and 3D textures. Attendees will take away rendering and optimisation techniques with WebGL 2.0.
+
+## Recordings
+
+### Application Development With WebGL & State-of-the-art with WebGL 2.0 @ SIGGRAPH Asia 2017
+To appear.
+
+### WebGL 2.0 Masterclass @ Web3D 2017
 [![Link to Youtube Video](https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/thumbnail.jpg)](https://www.youtube.com/watch?v=A4IIouI5H2o&feature=youtu.be)
 
 ## Link to slides
+
+### Application Development With WebGL
+To appear.
+
+### State-of-the-art with WebGL 2.0
+To appear.
+
+### WebGL 2.0 Masterclass @ Web3D 2017
 The slides are accessible in [Google Slides](https://docs.google.com/presentation/d/15_yBo_U4n_J54Q-PnpYYejnwk5xDak_Bbd-BMjo7UFU/edit#slide=id.g209618ea61_0_6).
 
 ## Resources
@@ -21,6 +45,18 @@ The slides are accessible in [Google Slides](https://docs.google.com/presentatio
 
 <table>
   <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Edward Angel</strong></td>
+      <td><strong>Dave Shreiner</strong></td>
+    </tr>
+    <tr>
+      <td>University of New Mexico</td>
+      <td>Unity Technologies</td>
+    </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/xavier.png" alt="Xavier" width="200"></td>
       <td><img src="https://raw.githubusercontent.com/Spaxe/webgl2-masterclass/master/images/juan.png" alt="Juan" width="200"></td>
@@ -40,6 +76,10 @@ The slides are accessible in [Google Slides](https://docs.google.com/presentatio
 </table>
 
 ## Biographies
+
+**Edward Angel**
+
+Ed Angel is Professor Emeritus of Computer Science at the University of New Mexico and the Founding Director of the Art, Research, Technology and Science Laboratory (ARTS Lab). He has over 25 years of experience in research and teaching in computer graphics and image processing. He is the coauthor of the popular textbook: Interactive Computer Graphics (7th Edition; Pearson Education; 2015). He has taught over 100 professional courses worldwide, including at SIGGRAPH and SIGGRAPH Asia since 1985.
 
 **Xavier Ho**
 
